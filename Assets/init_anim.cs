@@ -10,6 +10,7 @@ public class init_anim : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
+
         electronAnim.GetComponent<Animator>();
         electronAnim.Play("electron");
 	}

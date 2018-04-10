@@ -1,5 +1,5 @@
 2017.2.0f3:2.8.0.0
-StandaloneWindows64
+Android
 D:/Programs/Unity3d/Unity/Editor/Data/Managed/UnityEditor.dll
 D:/Programs/Unity3d/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll
 D:/Programs/Unity3d/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll
